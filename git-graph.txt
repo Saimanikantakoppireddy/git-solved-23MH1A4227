@@ -1,0 +1,23 @@
+* de3d07c (HEAD -> main, origin/main) docs: Add changelog
+| * c1cc1a9 (feature/another-feature) fix: bad accidental change
+| * 07a2806 (origin/feature/another-feature, practice-reset) feat: Add test feature
+|/  
+* a723778 (tag: v1.1.0, tag: v1.0.0) docs: Update README
+* 2771442 feat: Add new feature
+* eb98a2e docs: Add FAQ section
+* 2a52199 docs: Add FAQ section
+| * 590542a (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+|/  
+* 87fb239 Added checkpoint screenshots
+*   880c8b4 Resolved merge conflict in docs/architecture.md
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+| | * fd9d651 (dev) merge: Resolve all conflicts between main and dev branches
+| |/  
+|/|   
+* | 0312c6f (origin/dev, instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+| * 02011a5 (instructor/dev) updating dev
+|/  
+* ae630eb Initial commit
